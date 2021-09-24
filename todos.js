@@ -1,5 +1,5 @@
 let input = prompt('what would you like to do?');
-const todos = ['Collect Chicken Eggs', 'Clean Litter Box'];
+const todos = ['List item 1', 'List item 2'];
 while (input !== 'quit' && input !== 'q') {
     if (input === 'list') {
         console.log('*****************')
